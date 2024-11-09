@@ -46,7 +46,7 @@ const App = () => {
 
             {/* Изменили путь к изображению на локальный */}
             <Image
-                source={require('C:\\Users\\hisma\\git\\magic-ball\\assets\\images\\cookie.png')}  // Локальный путь к изображению
+                source={require('C:\\Users\\Admin\\Downloads\\git\\fortune-cookies\\assets\\images\\cookie.png')}  // Локальный путь к изображению
                 style={styles.cookieImage}
             />
 
